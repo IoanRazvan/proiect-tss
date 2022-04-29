@@ -1,0 +1,9 @@
+.pytest_cache/
+.vscode
+avl/__pycache__/
+tests/__pycache__/
+htmlmut/
+venv/
+.coverage
+.coveragerc
+test.py

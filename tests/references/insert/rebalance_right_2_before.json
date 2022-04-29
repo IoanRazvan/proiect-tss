@@ -1,0 +1,30 @@
+[
+    {
+        "info": 3,
+        "height": 3,
+        "parent": null,
+        "right": 4,
+        "left": 2
+    },
+    {
+        "info": 2,
+        "height": 2,
+        "parent": 3,
+        "right": null,
+        "left": 1
+    },
+    {
+        "info": 4,
+        "height": 1,
+        "parent": 3,
+        "right": null,
+        "left": null
+    },
+    {
+        "info": 1,
+        "height": 1,
+        "parent": 2,
+        "right": null,
+        "left": null
+    }
+]

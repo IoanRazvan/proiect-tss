@@ -1,0 +1,44 @@
+[
+    {
+        "info": 4,
+        "height": 3,
+        "parent": null,
+        "right": 7,
+        "left": 2
+    },
+    {
+        "info": 2,
+        "height": 2,
+        "parent": 4,
+        "right": 3,
+        "left": 1
+    },
+    {
+        "info": 7,
+        "height": 2,
+        "parent": 4,
+        "right": null,
+        "left": 5
+    },
+    {
+        "info": 1,
+        "height": 1,
+        "parent": 2,
+        "right": null,
+        "left": null
+    },
+    {
+        "info": 3,
+        "height": 1,
+        "parent": 2,
+        "right": null,
+        "left": null
+    },
+    {
+        "info": 5,
+        "height": 1,
+        "parent": 7,
+        "right": null,
+        "left": null
+    }
+]
